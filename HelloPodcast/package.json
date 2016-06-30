@@ -1,0 +1,13 @@
+{
+  "name": "hello-podcast",
+  "version": "0.0.0",
+  "description": "HelloPodcast",
+  "main": "server.js",
+  "author": {
+    "name": "Flori",
+    "email": ""
+  },
+  "dependencies": {
+    "express": "^4.14.0"
+  }
+}
